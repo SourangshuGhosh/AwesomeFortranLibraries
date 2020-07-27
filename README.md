@@ -58,7 +58,7 @@ A lot of routines are written so as to work with both single and double type pre
   Defines warning/error routines
   
 ## lib_random.f90
-  Defines routines to sample random numbers:
+### Defines routines to sample random numbers:
     - uniform random numbers between 0 and 1
     - uniform random numbers between two bounds
     - random number from exp(-x) PDF
