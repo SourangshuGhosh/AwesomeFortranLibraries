@@ -1,6 +1,6 @@
 ! MD5 of template: f092f5ca93d239079bc43db4fba9bf60
 ! ------------------------------------------------------------------------------
-! Copyright (c) 2009-13, Thomas P. Robitaille
+! Copyright (c) 2020, Sourangshu Ghosh
 !
 ! All rights reserved.
 !
