@@ -4,6 +4,10 @@ This is a collection of Fortran routines I have written over the years for use i
 
 A lot of routines are written so as to work with both single and double type precision. These are in the templates/ directory, and are coded using generic types. The files in templates are not valid Fortran, and will not compile. Running the parse.py script automatically generates the full source code from these templates, and places the results in src.
 
+## Author:
+
+Sourangshu Ghosh
+
 ## base_types.f90 (no dependencies)
   Defines numeric types
   
