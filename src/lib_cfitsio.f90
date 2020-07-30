@@ -2,8 +2,7 @@
 ! High level routines for cfitsio
 !
 ! ------------------------------------------------------------------------------
-! Copyright (c) 2009-13, Thomas P. Robitaille
-!
+! Copyright (c) 2020 , Sourangshu Ghosh
 ! All rights reserved.
 !
 ! Redistribution and use in source and binary forms, with or without
