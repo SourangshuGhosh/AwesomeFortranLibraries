@@ -2,7 +2,7 @@
 ! Random number generation related routines
 !
 ! ------------------------------------------------------------------------------
-! Copyright (c) 2009-13, Thomas P. Robitaille
+! Copyright (c) 2020, Sourangshu Ghosh
 !
 ! All rights reserved.
 !
